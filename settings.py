@@ -1,0 +1,5 @@
+server = '127.0.0.1'
+username = 'admin'
+password = 'password'
+diagnostic_command = 'run_diag'
+log_command = 'run_log'
